@@ -9,10 +9,10 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "STAT of ML 2019"
+title: "STAT of ML 2020"
 email: "barunik@fsv.cuni.cz"
 description: "DyMoDiF - Dynamic Models for the Digital Finance"
-baseurl: "/Prague2019"
+baseurl: "/Prague2020"
 url: "http://barunik.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -56,7 +56,7 @@ navigationLinks:
 # Hero Block
 heroImage: "sixwaysandco.jpg" # "Meter-Data-Management-Itron.jpg" # Big-Data-570x300.jpg" #hero.jpg"
 heroTitle: "<typeout>"
-eventDate: "September 30 - October 1, 2019"
+eventDate: "September 30 - October 2, 2020"
 typeoutTextValues: '"STAT of ML", "Statistics of Machine Learning", ""'
 typeoutFallback: "Statistics of Machine Learning"
 #heroButtons:
@@ -79,7 +79,7 @@ aboutBlock:
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Sep 30 - Oct 1, 2019 in Prague"
+latestNewsTitle: "Sep 30 - Oct 2, 2020 in Prague"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
