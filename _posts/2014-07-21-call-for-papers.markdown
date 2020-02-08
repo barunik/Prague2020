@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2019-03-19 08:00:00
+date:   2019-12-01 08:00:00
 isStaticPost: false
 ---
-STAT of ML (Statistics of Machine Learning) conference to be held from August 28 to August 29, 2020 in Prague, Czech Republic hosted by the Czech Academy of Sciences invites authors to submit their papers focusing on rigorous statistical understanding of machine learning methods.
+STAT of ML (Statistics of Machine Learning) conference to be held from August 27 to August 28, 2020 in Prague, Czech Republic hosted by the Czech Academy of Sciences invites authors to submit their papers focusing on rigorous statistical understanding of machine learning methods.
 
 ##### Submission Procedure
 
