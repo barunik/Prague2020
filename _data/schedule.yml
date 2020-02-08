@@ -1,6 +1,6 @@
 -
-  date: "2019-09-30"
-  dateReadable: "September 30 (Monday)"
+  date: "2020-08-27"
+  dateReadable: "August 27 (Thursday)"
   tracks:
     - {title: "Pre-conference (presentation of PhD students)", color: "#be4e4e"}
   timeslots:
@@ -117,8 +117,8 @@
     }
 
 -
-  date: "2019-10-01"
-  dateReadable: "October 1 (Tuesday)"
+  date: "2020-08-28"
+  dateReadable: "August 28 (Friday)"
   tracks:
     - {title: "Session II", color: "#90be4e"}
   timeslots:
