@@ -19,6 +19,15 @@
   language: en
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 
+-
+  id: 004
+  title: "The Golden Standard of Machine Learning while validating big data problems: advantages and problems discussed via a specific finance application"
+  description: "Authors: Jens Perch Nielsen, Maria Martinez-Miranda and Michael Scholz<br/>
+  <p>Abstract:  TBA</p>"
+  subtype: Presentation
+  speakers: [4]
+  language: en
+
 
 ###### The rest
 
