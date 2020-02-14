@@ -74,3 +74,15 @@
   rockstar: false
   social:
     - {name: "homepage", link: "http://ies.fsv.cuni.cz/en/staff/hronec"}
+
+-
+  id: 34
+  name: "Bruno"
+  surname: "Spilak"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: spilak.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/bruno-spilak"}
