@@ -50,6 +50,18 @@
   social:
     - {name: "github", link: "https://www.cass.city.ac.uk/faculties-and-research/experts/jens-perch"}
 
+-
+  id: 5
+  name: "Weining"
+  surname: "Wang"
+  company: "University of York"
+  title: "Professor"
+  bio: '<p></p>'
+  thumbnailUrl: weining.jpeg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.york.ac.uk/economics/our-people/staff-profiles/weining-wang/"}
+
 
 -
   id: 32

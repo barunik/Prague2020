@@ -29,6 +29,15 @@
   language: en
 
 -
+    id: 005
+    title: "Lasso driven inference in Time and Space"
+    description: "Authors: Weining Wang<br/>
+    <p>Abstract:  TBA</p>"
+    subtype: Presentation
+    speakers: [5]
+    language: en
+
+-
   id: 010
   title: "Tail risk protection: MLvsGARCH"
   description: "Authors: Bruno Spilak<br/>
