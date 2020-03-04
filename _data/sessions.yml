@@ -45,7 +45,8 @@
   subtype: Presentation
   speakers: [34]
   language: en
-  -
+
+-
     id: 011
     title: "Clustering Yield Curve Risk"
     description: "Authors: MIchael Althoff<br/>
