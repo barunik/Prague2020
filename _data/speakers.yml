@@ -110,3 +110,15 @@
   rockstar: false
   #social:
   #   - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/bruno-spilak"}
+
+-
+  id: 36
+  name: "Danial"
+  surname: "Saef"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: danial.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/danial-saef"}

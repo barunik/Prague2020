@@ -49,12 +49,29 @@
 -
     id: 011
     title: "Clustering Yield Curve Risk"
-    description: "Authors: MIchael Althoff<br/>
+    description: "Authors: Michael Althoff<br/>
     <p>Abstract:  TBA</p>"
     subtype: Presentation
     speakers: [35]
     language: en
 
+-
+    id: 012
+    title: "Jumps in cryptocurrencies"
+    description: "Authors: Danial Saef<br/>
+    <p>Abstract:  Jumps in financial time series, especially if they are in high frequency, are difficult to detect.
+    We evaluate the applicability of existing jump test methodologies as in Lee and Mykland (2012), and
+    Ait-Sahalia and Jacod (2012) on a diverse cryptocurrency tick dataset. Cryptocurrency markets are highly capitalised,
+    yet they differ from traditional markets due to non-stop trading, lower volume and high correlation among currencies.
+    These properties cause larger volatility and make them more vulnerable to contagion effects. Existing jump test
+    methodologies are difficult to apply to cryptocurrencies as they do not address these market specific properties.
+    The evaluation shows that the number of jumps per day differs according to the chosen method. However, both
+    frameworks agree that the frequency of jumps is time-varying and subject to clustering effects. We conclude that
+    existing methodologies should be extended to account for contagion effects and clustered jumps, and provide
+    suggestions on how to extend the existing methodologies accordingly.</p>"
+    subtype: Presentation
+    speakers: [36]
+    language: en
 
 ###### The rest
 
