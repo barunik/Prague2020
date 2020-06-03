@@ -73,6 +73,25 @@
     speakers: [36]
     language: en
 
+-
+    id: 013
+    title: "Tales of Sentiment Driven Tails "
+    description: "Authors: Elena Ivanova, Jozef Barunik, Wolfgang K. Härdle, Cathy Chen
+    <br/>
+    <p>Abstract: .</p>"
+    subtype: Presentation
+    speakers: [37]
+    language: ens
+
+-
+    id: 014
+    title: "Antisocial Online Behavior Detection using Deep Learning"
+    description: "Authors: Elizaveta Zinovyeva<br/>
+    <p>Abstract: .</p>"
+    subtype: Presentation
+    speakers: [38]
+    language: en
+
 ###### The rest
 
 

@@ -122,3 +122,27 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/danial-saef"}
+
+-
+  id: 37
+  name: "Elena"
+  surname: "Ivanova"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: elena.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/ei"}
+
+-
+  id: 38
+  name: "Elizaveta "
+  surname: "Zinovyeva"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: Elizaveta.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/elizaveta-zinovyeva"}
