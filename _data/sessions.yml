@@ -92,6 +92,16 @@
     speakers: [38]
     language: en
 
+-
+    id: 015
+    title: "A Machine Learning Based Regulatory Risk Index for Cryptocurrencies"
+    description: "Authors: Xinwen Ni, Wolfgang K. Härdle<br/>
+    <p>Abstract: Despite regulators’ best intentions to protect consumers and to avoid money launder- ing, terrorist finance, or other illicit activities, cryptocurrencies’ values remain heavily tied to drastic policy changes, as several prominent examples revealed over the past years. Indices have been constructed to track the Cryptocurrency markets, however, none of these indices directly address regulatory risks. In this paper, we aim to quantify the risks originating from introducing regulations on the cryptocurrency markets and identify their impact on the cryptocurrency investments. conduct a regulatory risk index for the cryptocurrency market base on the policy-related news coverage frequency. The news data are collected from the top online cryptocurrency news platforms. A LDA model was trained to obtain the topics and was applied to calculate the distance between news to solve the problem of semantic similarity as a binary decision problem in which an article is policy related or not. Our regulatory risk index successfully captures those big policy changing moments. The movements for both VCRIX, a market volatility index, and the regulatory risk index are synchronous, meaning that the index could be helpful for all participants in the cryptocurrency market. The algorithms and Python code are available for research purposes on www.quantlet.de.
+.</p>"
+    subtype: Presentation
+    speakers: [39]
+    language: en
+
 ###### The rest
 
 
