@@ -45,6 +45,7 @@ navigationLinks:
  #- {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
+- {permalink: "https://barunik.github.io/Prague2019/", text: "STAT of ML 2019"}
  #- {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
