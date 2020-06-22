@@ -11,7 +11,7 @@
 
 -
   id: 002
-  title: "Asset Pricing using Time-Frequency Dependent Network Centrality"
+  title: "Dynamic Networks"
   description: "Authors: Jozef Barunik, Michael Ellington<br/>
   <p>Abstract:  TBA</p>"
   subtype: Presentation
@@ -35,6 +35,15 @@
     <p>Abstract:  TBA</p>"
     subtype: Presentation
     speakers: [5]
+    language: en
+
+-
+    id: 006
+    title: "TBA"
+    description: "Authors: Christian Brownlees<br/>
+    <p>Abstract:  TBA</p>"
+    subtype: Presentation
+    speakers: [6]
     language: en
 
 -

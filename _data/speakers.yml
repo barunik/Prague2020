@@ -62,6 +62,18 @@
   social:
     - {name: "homepage", link: "https://www.york.ac.uk/economics/our-people/staff-profiles/weining-wang/"}
 
+-
+  id: 6
+  name: "Christian"
+  surname: "Brownlees"
+  company: "Universitat Pompeu Fabra"
+  title: "Professor"
+  bio: '<p></p>'
+  thumbnailUrl: brownlees.jpeg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "econ.upf.edu/~cbrownlees"}
+
 
 -
   id: 32
