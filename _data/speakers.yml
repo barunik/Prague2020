@@ -74,6 +74,16 @@
   social:
     - {name: "homepage", link: "econ.upf.edu/~cbrownlees"}
 
+-
+  id: 7
+  name: "Souhir"
+  surname: "Ben Amor"
+  company: "IHEC, Sousse, TN"
+  title: "Guest Researcher"
+  bio: '<p></p>'
+  thumbnailUrl: benamor.jpg
+  rockstar: false
+
 
 -
   id: 32
