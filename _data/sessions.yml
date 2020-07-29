@@ -20,6 +20,15 @@
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 
 -
+  id: 003
+  title: "Pension Fund Asset-Liability Management"
+  description: "Authors: Milos Kopa<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [3]
+  language: en
+
+-
   id: 004
   title: "The Golden Standard of Machine Learning while validating big data problems: advantages and problems discussed via a specific finance application"
   description: "Authors: Jens Perch Nielsen, Maria Martinez-Miranda and Michael Scholz<br/>
@@ -68,7 +77,7 @@
     macroeconomic risk factors, we used the Emerging Market yield spread over respective
      US Treasuries, and the above mentioned countries' currencies. Therefore, we studied
      the relationship between those factors and tail event network behaviour to build our
-     policy recommendations in order to help the investors to choose the suitable market 
+     policy recommendations in order to help the investors to choose the suitable market
      for investment and then to optimise their portfolio. The results indicated that
      Emerging Market financial institutions were as much impacted by the crisis from
      mid-March 2020 onwards.</p>"
@@ -76,10 +85,55 @@
     speakers: [7]
     language: en
 
+-
+  id: 008
+  title: "Recursive approaches to estimation of risk"
+  description: "Authors: Tomáš Cipra<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [8]
+  language: en
 
+-
+  id: 009
+  title: "Risk aversion and second order stochastic dominance"
+  description: "Authors: Martin Branda<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [9]
+  language: en
 
 -
   id: 010
+  title: "Dynamic decision making with deep reinforcement learning"
+  description: "Authors: Jozef Barunik, Lukas Vacha<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [10]
+  language: en
+
+-
+  id: 032
+  title: "Dynamic density forecasting using machine learning"
+  description: "Authors: Lubos Hanus and Jozef Barunik<br/>
+  <p>Abstract:  The use of machine learning techniques is proposed to describe and forecast the conditional probability distribution of asset returns. We redefine the problem of forecasting of conditional probabilities looking from a different perspective than traditional ordered binary choice models. Using deep learning methods, we offer a better description of asset returns distribution. The study on the most liquid U.S. stocks shows that predictive performance of machine learning methods is promising out-of-sample. We provide a comparison of machine learning methods to the unordered and order binary choice models used by the literature.</p>"
+  subtype: Presentation
+  speakers: [32]
+  language: en
+
+-
+  id: 033
+  title: "Asset Pricing with Quantile Machine Learning"
+  description: "Authors: Martin Hronec and Jozef Barunik<br/>
+  <p>Abstract:  A large scale empirical test is performed for an asset pricing model based on agents with quantile utility preferences instead of the standard expected utility. Using machine learning methods, we predict quantiles of individual stock returns obtaining the whole forecasted distributions. We document heterogeneity in models parameters across different quantiles. We show that forecasting all quantiles together, using multi-task deep learning is better than forecasting quantiles individually. The forecasting models allow us to construct portfolios based on the whole distribution instead of just a conditional mean. We show the economic value added of looking at the whole forecasted distribution by forming quantile-based long-short portfolios, as well as favourably forecasting value-at-risk.</p>"
+  subtype: Presentation
+  speakers: [33]
+  language: en
+
+
+
+-
+  id: 034
   title: "Tail risk protection: MLvsGARCH"
   description: "Authors: Bruno Spilak<br/>
   <p>Abstract:  TBA</p>"
@@ -88,7 +142,7 @@
   language: en
 
 -
-    id: 011
+    id: 035
     title: "Clustering Yield Curve Risk"
     description: "Authors: Michael Althoff<br/>
     <p>Abstract:  TBA</p>"
@@ -97,7 +151,7 @@
     language: en
 
 -
-    id: 012
+    id: 036
     title: "Jumps in cryptocurrencies"
     description: "Authors: Danial Saef<br/>
     <p>Abstract:  Jumps in financial time series, especially if they are in high frequency, are difficult to detect.
@@ -115,7 +169,7 @@
     language: en
 
 -
-    id: 013
+    id: 037
     title: "Tales of Sentiment Driven Tails "
     description: "Authors: Elena Ivanova, Jozef Barunik, Wolfgang K. Härdle, Cathy Chen
     <br/>
@@ -125,7 +179,7 @@
     language: ens
 
 -
-    id: 014
+    id: 038
     title: "Antisocial Online Behavior Detection using Deep Learning"
     description: "Authors: Elizaveta Zinovyeva<br/>
     <p>Abstract: .</p>"
@@ -134,7 +188,7 @@
     language: en
 
 -
-    id: 015
+    id: 039
     title: "A Machine Learning Based Regulatory Risk Index for Cryptocurrencies"
     description: "Authors: Xinwen Ni, Wolfgang K. Härdle<br/>
     <p>Abstract: Despite regulators’ best intentions to protect consumers and to avoid money launder- ing, terrorist finance, or other illicit activities, cryptocurrencies’ values remain heavily tied to drastic policy changes, as several prominent examples revealed over the past years. Indices have been constructed to track the Cryptocurrency markets, however, none of these indices directly address regulatory risks. In this paper, we aim to quantify the risks originating from introducing regulations on the cryptocurrency markets and identify their impact on the cryptocurrency investments. conduct a regulatory risk index for the cryptocurrency market base on the policy-related news coverage frequency. The news data are collected from the top online cryptocurrency news platforms. A LDA model was trained to obtain the topics and was applied to calculate the distance between news to solve the problem of semantic similarity as a binary decision problem in which an article is policy related or not. Our regulatory risk index successfully captures those big policy changing moments. The movements for both VCRIX, a market volatility index, and the regulatory risk index are synchronous, meaning that the index could be helpful for all participants in the cryptocurrency market. The algorithms and Python code are available for research purposes on www.quantlet.de.
@@ -142,6 +196,15 @@
     subtype: Presentation
     speakers: [39]
     language: en
+
+-
+  id: 040
+  title: "Tail Network Risk using Deep Learning"
+  description: "Authors: Josef Kurka, Lubos Hanus and Jozef Barunik<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [40]
+  language: en
 
 ###### The rest
 
