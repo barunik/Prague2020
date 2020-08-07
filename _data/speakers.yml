@@ -120,6 +120,65 @@
   social:
     - {name: "homepage", link: "https://www.utia.cas.cz/people/vacha"}
 
+-
+  id: 11
+  name: "Jan"
+  surname: "Vecer"
+  company: "Charles University"
+  title: "Associate Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: vecer.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://www.karlin.mff.cuni.cz/~vecer/"}
+
+-
+  id: 12
+  name: "Michal"
+  surname: "Pesta"
+  company: "Charles University"
+  title: "Research Assistant"
+  bio: '<p> </p>'
+  thumbnailUrl: pesta.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://www.karlin.mff.cuni.cz/~pesta/"}
+
+-
+  id: 13
+  name: "Sebastiano"
+  surname: "Vitali"
+  company: "Charles University"
+  title: "Assitant Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: sebastiano.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www2.karlin.mff.cuni.cz/~vitali/"}
+
+-
+  id: 14
+  name: "Matus"
+  surname: "Maciak"
+  company: "Charles University"
+  title: "Research Assistant"
+  bio: '<p> </p>'
+  thumbnailUrl: maciak.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www2.karlin.mff.cuni.cz/~maciak/"}
+
+-
+  id: 15
+  name: "Ruth"
+  surname: "Dominguez"
+  company: "University of Castilla - La Mancha"
+  title: "Assitant Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: ruth.jpg
+  rockstar: false
+  social:
+  #  - {name: "homepage", link: "https://www2.karlin.mff.cuni.cz/~vitali/"}
 
 -
   id: 32
@@ -228,3 +287,27 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://ies.fsv.cuni.cz/cs/staff/kurka"}
+
+-
+  id: 41
+  name: "Tomas"
+  surname: "Rusy"
+  company: "Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: rusy.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://karlin.mff.cuni.cz/~rusy/"}
+
+-
+  id: 42
+  name: "Karel"
+  surname: "Kozmik"
+  company: "Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: kozmikkarel.jpg
+  rockstar: false
+  #social:
+  # - {name: "homepage", link: "http://karlin.mff.cuni.cz/~rusy/"}

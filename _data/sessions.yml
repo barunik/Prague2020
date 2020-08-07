@@ -113,6 +113,52 @@
   language: en
 
 -
+  id: 011
+  title: "Optimal Distributional Trading Gain: State Price Density Equilibrium and Bayesian Statistics"
+  description: "Authors: Jan Vecer<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [11]
+  language: en
+
+-
+  id: 012
+  title: "COHU-GARCH"
+  description: "Authors: Michal Pesta<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [12]
+  language: en
+
+-
+  id: 013
+  title: "Multidimensional second order stochastic dominance in ALM"
+  description: "Authors: Sebastiano Vitali<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [13]
+  language: en
+
+-
+  id: 014
+  title: "IV Estimation via Atomic Pursuit and Quantile Regularization"
+  description: "Authors: Matus Maciak<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [14]
+  language: en
+
+-
+  id: 015
+  title: "SSD constraints in decarbonising energy production strategy at European level"
+  description: "Authors: Ruth Dominguez<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [15]
+  language: en
+
+
+-
   id: 032
   title: "Dynamic density forecasting using machine learning"
   description: "Authors: Lubos Hanus and Jozef Barunik<br/>
@@ -204,6 +250,24 @@
   <p>Abstract:  TBA </p>"
   subtype: Presentation
   speakers: [40]
+  language: en
+
+-
+  id: 041
+  title: "Maximum Likelihood Estimation of Interest Rate Models"
+  description: "Authors: Tomas Rusy<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [41]
+  language: en
+
+-
+  id: 042
+  title: "Machine learning parameter calibration in mean-CVaR models "
+  description: "Authors: Karel Kozmik<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [42]
   language: en
 
 ###### The rest
