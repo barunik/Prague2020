@@ -1,13 +1,12 @@
 
 -
   id: 001
-  title: "TBA"
-  description: "Authors: Wolfgang K. Härdle<br/>
+  title: "SONIC: Social Networks with Influencers and Communities"
+  description: "Authors: Cathy Y.H. Chen, Wolfgang Karl Härdle and Yegor Klochkov<br/>
   <p>Abstract:  TBA</p>"
   subtype: Presentation
   speakers: [1]
   language: en
-  presentation: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/results/discussion-papers/discussion-papers-2017-1/irtg1792dp2019-009.pdf"
 
 -
   id: 002
