@@ -168,17 +168,17 @@
     - {
     	startTime: "15:00",
     	endTime: "15:30",
-    	sessionIds: [014]
+    	sessionIds: [036]
     }
     - {
     	startTime: "15:30",
     	endTime: "16:00",
-    	sessionIds: [012]
+    	sessionIds: [014]
     }
     - {
       	startTime: "16:00",
       	endTime: "16:30",
-      	sessionIds: [036]
+      	sessionIds: [012]
       }
 
     - {
