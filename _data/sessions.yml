@@ -188,30 +188,9 @@
 
 -
     id: 035
-    title: "FRM Financial Risk Meter for Emerging Markets"
-    description: "Authors: Ben Amor, Souhir and Michael Althoff<br/>
-    <p>Abstract:  Emerging Markets (EM) have become an attractive investment target due
-    to the fast growing economic and the increasing of liquidity and transparency.
-    However, these markets are characterised by a high level of volatility due to
-    external price shocks, and domestic policy instability. Therefore, an efficient
-    risk measure and hedging strategy are needed to help the market players to hedge their
-    investments against this risk. In this paper, a daily systemic risk measure,
-    called FRM (Financial Risk Meter) is proposed. The FRM is based on Lasso quantile
-    regression designed to capture tail event co-movements. In practice, FRM is applied
-    to the return time series of selected financial institutions and macroeconomic risk
-    factors. Using FRM, we identify companies exhibiting extreme ''co-stress'', as well as
-    ''activators'' of stress. Therefore, FRM Emerging Markets is applied to capture systemic
-    risk behaviour embedded in the returns of the 25 largest Emerging Markets financial
-    institutions, covering the BRIMST (Brazil, Russia, India, Mexico, South Africa, Turkey),
-    and thereby reflects the financial linkages between these economies. Concerning the
-    macroeconomic risk factors, in addition to the Adrian and Brunnermaier (2016)
-    macroeconomic risk factors, we used the Emerging Market yield spread over respective
-     US Treasuries, and the above mentioned countries' currencies. Therefore, we studied
-     the relationship between those factors and tail event network behaviour to build our
-     policy recommendations in order to help the investors to choose the suitable market
-     for investment and then to optimise their portfolio. The results indicated that
-     Emerging Market financial institutions were as much impacted by the crisis from
-     mid-March 2020 onwards.</p>"
+    title: "FRM Financial Risk Meter for Cryptocurrencies"
+    description: "Authors: Michael Althoff<br/>
+    <p>Abstract:  TBA</p>"
     subtype: Presentation
     speakers: [35]
     language: en
