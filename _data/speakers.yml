@@ -38,6 +38,19 @@
   social:
     - {name: "github", link: "www.quantlet.de"}
 
+-
+  id: 4
+  name: "Zuzana"
+  surname: "Prášková"
+  company: "Charles University"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: praskova.jpg
+  rockstar: false
+  #social:
+#    - {name: "homepage", link: "http://artax.karlin.mff.cuni.cz/~branm1am/indexEN.html"}
+
+
 #-
 #  id: 4
 #  name: "Jens Perch"
@@ -50,29 +63,17 @@
 #  social:
 #    - {name: "github", link: "https://www.cass.city.ac.uk/faculties-and-research/experts/jens-perch"}
 
--
-  id: 5
-  name: "Weining"
-  surname: "Wang"
-  company: "University of York"
-  title: "Professor"
-  bio: '<p></p>'
-  thumbnailUrl: weining.jpeg
-  rockstar: false
-  social:
-    - {name: "homepage", link: "https://www.york.ac.uk/economics/our-people/staff-profiles/weining-wang/"}
-
--
-  id: 6
-  name: "Christian"
-  surname: "Brownlees"
-  company: "Universitat Pompeu Fabra"
-  title: "Professor"
-  bio: '<p></p>'
-  thumbnailUrl: brownlees.jpg
-  rockstar: false
-  social:
-    - {name: "homepage", link: "econ.upf.edu/~cbrownlees"}
+#-
+#  id: 6
+#  name: "Christian"
+#  surname: "Brownlees"
+#  company: "Universitat Pompeu Fabra"
+#  title: "Professor"
+#  bio: '<p></p>'
+#  thumbnailUrl: brownlees.jpg
+#  rockstar: false
+#  social:
+#    - {name: "homepage", link: "econ.upf.edu/~cbrownlees"}
 
 -
   id: 7
@@ -242,15 +243,28 @@
 
 -
   id: 37
-  name: "Elena"
-  surname: "Ivanova"
+  name: "Wendy"
+  surname: "Wang"
   company: "Humboldt-Universität zu Berlin"
   title: "PhD student"
-  bio: '<p> </p>'
-  thumbnailUrl: elena.jpg
+  bio: '<p></p>'
+  thumbnailUrl: wendy.jpg
   rockstar: false
   social:
-    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/ei"}
+#    - {name: "homepage", link: "https://www.york.ac.uk/economics/our-people/staff-profiles/weining-wang/"}
+
+
+#-
+#  id: 37
+#  name: "Elena"
+#  surname: "Ivanova"
+#  company: "Humboldt-Universität zu Berlin"
+#  title: "PhD student"
+#  bio: '<p> </p>'
+#  thumbnailUrl: elena.jpg
+#  rockstar: false
+#  social:
+#    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/ei"}
 
 -
   id: 38

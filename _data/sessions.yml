@@ -1,8 +1,8 @@
 
 -
   id: 001
-  title: "SONIC: Social Networks with Influencers and Communities"
-  description: "Authors: Cathy Y.H. Chen, Wolfgang Karl Härdle and Yegor Klochkov<br/>
+  title: "Trespassing Random Forests with a pointed stick for self defence"
+  description: "Authors: Wolfgang Karl Härdle and Kainat Khowaja<br/>
   <p>Abstract:  TBA</p>"
   subtype: Presentation
   speakers: [1]
@@ -10,8 +10,8 @@
 
 -
   id: 002
-  title: "Dynamic Networks"
-  description: "Authors: Jozef Barunik, Michael Ellington<br/>
+  title: "Deep Learning, Predictability, and Optimal Portfolio Returns"
+  description: "Authors: Mykola Babiak and Jozef Barunik<br/>
   <p>Abstract:  TBA</p>"
   subtype: Presentation
   speakers: [2]
@@ -29,30 +29,30 @@
 
 -
   id: 004
-  title: "The Golden Standard of Machine Learning while validating big data problems: advantages and problems discussed via a specific finance application"
-  description: "Authors: Jens Perch Nielsen, Maria Martinez-Miranda and Michael Scholz<br/>
+  title: "Gradual changes in dynamic models"
+  description: "Authors: Zuzana Praskova<br/>
   <p>Abstract:  TBA</p>"
   subtype: Presentation
   speakers: [4]
   language: en
 
--
-    id: 005
-    title: "Lasso driven inference in Time and Space"
-    description: "Authors: Weining Wang<br/>
-    <p>Abstract:  TBA</p>"
-    subtype: Presentation
-    speakers: [5]
-    language: en
+#-
+#    id: 005
+#    title: "Lasso driven inference in Time and Space"
+#    description: "Authors: Weining Wang<br/>
+#    <p>Abstract:  TBA</p>"
+#    subtype: Presentation
+#    speakers: [5]
+#    language: en
 
--
-    id: 006
-    title: "TBA"
-    description: "Authors: Christian Brownlees<br/>
-    <p>Abstract:  TBA</p>"
-    subtype: Presentation
-    speakers: [6]
-    language: en
+#-
+#    id: 006
+#    title: "TBA"
+#    description: "Authors: Christian Brownlees<br/>
+#    <p>Abstract:  TBA</p>"
+#    subtype: Presentation
+#    speakers: [6]
+#    language: en
 
 -
     id: 007
@@ -236,8 +236,8 @@
 
 -
     id: 037
-    title: "Tales of Sentiment Driven Tails "
-    description: "Authors: Elena Ivanova, Jozef Barunik, Wolfgang K. Härdle, Cathy Chen
+    title: "TBA"
+    description: "Authors: Wendy Wang
     <br/>
     <p>Abstract: .</p>"
     subtype: Presentation
