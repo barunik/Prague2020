@@ -215,10 +215,11 @@
 
 -
     id: 037
-    title: "TBA"
-    description: "Authors: Wendy Wang
+    title: "K-expectiles clustering"
+    description: "Authors: Bingling Wang, Yinxing Li, Wolfgang Karl Härdle
     <br/>
-    <p>Abstract: .</p>"
+    <p>Abstract: K-means clustering is one of the most widely-used partitioning algorithm in cluster analysis due to its simplicity and computational efficiency. However, K-means does not provide an appropriate clustering result when applying to data with non-spherical shaped clusters.
+We propose a novel partitioning clustering algorithm based on expectiles. The cluster centers are defined as multivariate expectiles and clusters are searched via a greedy algorithm by minimizing the within cluster '$\tau$ -variance'. We suggest two schemes: fixed $\tau$ clustering, and adaptive $\tau$ clustering. Validated by simulation results, this method beats both K-means and spectral clustering on data with asymmetric shaped clusters, or clusters with a complicated structure, including asymmetric normal, beta and F distributed clusters and the mixture of several different distributions. An application of adaptive $\tau$ clustering on crypto-currency market and fixed $\tau$ clustering on stock market data are provided. Evidence has found that the expectiles clusters of CC market show the phenomena of positive correlated price and volatilities, which indicate a retail investors dominated market. </p>"
     subtype: Presentation
     speakers: [37]
     language: ens

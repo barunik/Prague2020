@@ -243,12 +243,12 @@
 
 -
   id: 37
-  name: "Wendy"
+  name: "Bingling"
   surname: "Wang"
   company: "Humboldt-Universität zu Berlin"
   title: "PhD student"
   bio: '<p></p>'
-  thumbnailUrl: wendy.jpg
+  thumbnailUrl: bingling.jpeg
   rockstar: false
   social:
 #    - {name: "homepage", link: "https://www.york.ac.uk/economics/our-people/staff-profiles/weining-wang/"}
