@@ -131,9 +131,22 @@
 
 -
   id: 013
-  title: "Multidimensional second order stochastic dominance in ALM"
+  title: "Pension fund ALM with Multivariate Second order Stochastic Dominance constraints"
   description: "Authors: Sebastiano Vitali<br/>
-  <p>Abstract:  TBA </p>"
+  <p>Abstract:  A pension fund manager typically decides the allocation of
+the pension fund assets looking for a long-term sustainability. Many
+Asset and Liability Management models in the form of multistage
+stochastic programming problem have been proposed to help the pension
+fund manager to define the optimal allocation given a multi-objective
+function. The recent literature proposes multistage stochastic dominance
+constraints to guarantee that the optimal strategy is able to
+stochastically dominate a benchmark portfolio. In this work, we extend
+previous results to another type of stochastic dominance that appears
+more consistent to use in a multistage framework. Indeed, instead of
+considering multiple single-stage stochastic dominance constraints, we
+apply a unique constraint that involves jointly multiple stages.
+Numerical results show the dissimilarities between the different ways to
+interpret and apply the multistage stochastic dominance. </p>"
   subtype: Presentation
   speakers: [13]
   language: en
@@ -149,9 +162,23 @@
 
 -
   id: 015
-  title: "SSD constraints in decarbonising energy production strategy at European level"
+  title: "Applying Stochastic Dominance Constraints to Multistage Capacity Expansion Problems"
   description: "Authors: Ruth Dominguez<br/>
-  <p>Abstract:  TBA </p>"
+  <p>Abstract:  To attain the net zero emission target by 2050 different
+energy strategies can be implemented. The use of stochastic dominance
+constraints allows to compare the results of each strategy from
+different perspectives. Therefore, in this work we carry out an analysis
+of the efficiency of the possible strategies to be followed to attain
+the emissions targets established by the European Commission for 2050.
+We present a multistage investment model in generating and storage
+capacity in which long-term uncertainties, such as the demand growth and
+the investment and fuel costs are considered, adopting the point of view
+of a central planner. The variability of the demand and the renewable
+production in the daily operation is taken into account by including a
+set of representative days of the year. Second order stochastic
+dominance constraints are applied to select better strategies under
+different planning scenarios. A numerical study based on the European
+power system is explained. </p>"
   subtype: Presentation
   speakers: [15]
   language: en
