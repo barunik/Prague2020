@@ -124,7 +124,7 @@
   id: 012
   title: "COHU-GARCH"
   description: "Authors: Michal Pesta<br/>
-  <p>Abstract:  TBA </p>"
+  <p>Abstract:  How to deal with multivariate dependent non-negative time series? In particular, when some or all of the time series contain non-negligible portion of zeros whereas the remaining observations are positive. Classical modeling techniques surprisingly fail. The proposed method is illustrated on estimation of the dependency structure among several actuarial lines of business, which is now a front burner in insurance industry. </p>"
   subtype: Presentation
   speakers: [12]
   language: en
