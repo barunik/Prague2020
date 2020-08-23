@@ -10,9 +10,9 @@
 
 -
   id: 002
-  title: "Deep Learning, Predictability, and Optimal Portfolio Returns"
-  description: "Authors: Mykola Babiak and Jozef Barunik<br/>
-  <p>Abstract:  TBA</p>"
+  title: "Dynamic Networks"
+  description: "Authors: Jozef Barunik and Michael Ellington<br/>
+  <p>Abstract:  We propose new measures to characterize dynamic network connections in large financial and economic systems. In doing so, our measures allow one to describe and understand causal network structures that evolve throughout time and over horizons using variance decomposition matrices from time-varying parameter VAR (TVP VAR) models. These methods allow researchers and practitioners to examine network connections over any horizon of interest whilst also being applicable to a wide range of economic and financial data. Our empirical application redefines the meaning of big in big data, in the context of TVP VAR models, and track dynamic connections among illiquidity ratios of all S\&P500 constituents. We then study the information content of these measures for the market return and real economy. </p>"
   subtype: Presentation
   speakers: [2]
   language: en
