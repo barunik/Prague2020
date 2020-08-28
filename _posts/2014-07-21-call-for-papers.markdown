@@ -12,11 +12,11 @@ Papers must be submitted via email directly to [Jozef Barunik](https://barunik.g
 
 ##### Conference Registration and Payment Details
 
-The registration fee for academic participants is 11000 CZK and includes participation to all sessions, conference material, coffee breaks, lunch for both days of the conference as well as dinner to be held on Monday evening.
+The registration fee for academic participants is 12000 CZK and includes participation to all sessions, conference material, coffee breaks, lunch for both days of the conference as well as dinner to be held on Thursday evening.
 
 The bank entry details for the payment:
 
-Account holder name: Univerzita Karlova <br/>
+Account holders name: Univerzita Karlova <br/>
 Account no.: 38330021/0100 <br/>
 IBAN: CZ9101000000000038330021 <br/>
 SWIFT:KOMBCZPPXXX <br/>
@@ -28,4 +28,4 @@ Václavské náměstí 43 <br/>
 
 <br/>
 
-PLease note the account is in CZK, alternatively, payments in EUR or USD are possible, please contact organizers for details.
+Please note the account is in CZK, alternatively, payments in EUR or USD are possible, please contact organizers for details.
